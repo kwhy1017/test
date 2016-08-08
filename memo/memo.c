@@ -8,5 +8,6 @@ int memo(){
 	printf("test4.\n");
 	printf("test5.\n");
 	printf("test6.\n");
+	printf("test7.\n");
 	return 0;
 }
