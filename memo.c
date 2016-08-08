@@ -4,5 +4,6 @@ int memo(){
 	printf("function memo.\n");
 	printf("test.\n");
 	printf("test2.\n");
+	printf("test3.\n");
 	return 0;
 }
